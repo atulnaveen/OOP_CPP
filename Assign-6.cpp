@@ -132,7 +132,7 @@ int main()
             case 2: display();
                     break;
             case 3: search();
-                    break;
+                    break; 
             case 4: { cout<<"Please select on what basis: 1. Cost 2. Code";
                       cin>>w;
                     switch(w)
